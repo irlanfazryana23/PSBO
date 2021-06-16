@@ -186,7 +186,9 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
   - Menghapus komentar
     <br>
     Mahasiswa dapat menghapus komentar yang sudah dihapus/diketikkannya sendiri pada suatu mata kuliah.
-    
+  - Menghapus data tertarik elektif
+    <br>
+    Menghapus data tertarik elektif berguna untuk me-<em>reset</em> data tertarik elektif sehingga untuk semester selanjutnya, data tertarik yang ada pada semester ini dapat dihapus
 
 # Hasil Implementasi
 [`^ kembali ke atas ^`](#)
