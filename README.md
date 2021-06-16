@@ -218,6 +218,7 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 1. Menghandle akun Dosen
 2. Menambah Fitur untuk Departemen Lainnya
 3. Fitur Komentar hanya bisa digunakan oleh mahasiswa yang sudah mengambil mata kuliah tersebut
+4. Fitur reset data tertarik elektif ketika semester berakhir
 
 
 # Developer dan Job Desc
