@@ -224,11 +224,42 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 # Developer dan Job Desc
 [`^ kembali ke atas ^`](#)
 
--   Irlan Fazryana Rahman (G64180004) -> BackEnd
--   Rian Reftian Nurochmat (G64180009) -> BackEnd
--   Ilham Ghiffari Noorrahmat (G64180012) -> UI/UX
--   Pascal Pribadi A. P. (G64180022) -> FrontEnd + BackEnd
--   Raden Rafly R. F. (G64180033) -> FrontEnd
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Nama</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Irlan Fazryana Rahman (G64180004)</td>
+            <td>BackEnd</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Rian Reftian Nurochmat (G64180009)</td>
+            <td>BackEnd</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Ilham Ghiffari Noorrahmat (G64180012)</td>
+            <td>UI/UX</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Pascal Pribadi A. P. (G64180022)</td>
+            <td>FrontEnd + BackEnd</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Raden Rafly R. F. (G64180033)</td>
+            <td>FrontEnd</td>
+        </tr>
+    </tbody>
+</table>
 
 # Lain-Lain
 [`^ kembali ke atas ^`](#)
