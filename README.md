@@ -143,8 +143,7 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 
 #### Entity Relationship Diagram
 
-![erd](https://user-images.githubusercontent.com/60166922/120775230-35c21e80-c54d-11eb-930f-2648bbec6d74.jpg)
-
+![Untitled Diagram-Page-2](https://user-images.githubusercontent.com/60166922/122154636-9f1c2880-ce8f-11eb-9539-dcab03694d9f.png)
 
 #### Arsitektur Sistem
 <img src="https://user-images.githubusercontent.com/60166788/121908773-81e43e80-cd57-11eb-987e-d3c1e06751bc.png" alt="Melihat dashboard" width="500">
