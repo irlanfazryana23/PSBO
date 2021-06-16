@@ -8,7 +8,7 @@
   <a href="#user-analysis">User Analysis</a> •
   <a href="#spesifikasi-teknis-lingkungan-pengembangan">Spesifikasi Teknis Lingkungan Pengembangan</a> •
   <a href="#konsep-OOP-yang-digunakan">Konsep OOP Yang Digunakan</a> •
-  <a href="#tipe-desain-pengembangan-yang-digunakan">Tipe Desain Pengembangan Yang Digunakan</a> •
+  <a href="#tipe-desain-pengembangan-yang-digunakan-(Pattern/Anti Pattern)">Tipe Desain Pengembangan Yang Digunakan</a> •
   <a href="#pembahasan">Pembahasan</a> •
   <a href="#hasil-implementasi">Hasil Implementasi</a> •
   <a href="#saran">Saran</a> •
