@@ -218,65 +218,51 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 <table>
     <thead>
         <tr>
-            <th></th>
-            <th>Endpoint</th>
-            <th>Method</th>
+          <td><strong>Endpoint untuk mata kuliah elektif</strong></td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
-            <td>1</td>
-            <td>/test-repo/{id?}</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/test-repo-elektif/{id?}</td>
             <td>GET</td>
         </tr>
         <tr>
-            <td>2</td>
-            <td>/test-add-repo</td>
+          <td><strong>Endpoint untuk tertarik elektif</strong></td>
+        </tr>
+        <tr>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-list-tertarik/{id?}</td>
+            <td>GET</td>
+        </tr>
+        <tr>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-add-tertarik</td>
             <td>POST</td>
         </tr>
         <tr>
-            <td>3</td>
-            <td>/test-repo-elektif/{id?}</td>
-            <td>GET</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>/repo-list-tertarik/{id?}</td>
-            <td>GET</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>/repo-add-tertarik</td>
-            <td>POST</td>
-        </tr>
-      <tr>
-            <td>4</td>
-            <td>/repo-delete-tertarik/{id?}</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-delete-tertarik/{id?}</td>
             <td>DELETE</td>
         </tr>
       <tr>
-            <td>5</td>
-            <td>/delete-all-tertarik-elektif</td>
+        <td><strong>Endpoint untuk hapus semua tertarik elektif</strong></td>
+      </tr>
+      <tr>
+            <td>https://intense-temple-76166.herokuapp.com/api/delete-all-tertarik-elektif</td>
             <td>DELETE</td>
         </tr>
+       <tr>
+         <td><strong>Endpoint untuk komentar</strong></td>
+       </tr>
       <tr>
-            <td>6</td>
-            <td>/repo-list-komentar/{id?}</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-list-komentar/{id?}</td>
             <td>GET</td>
         </tr>
       <tr>
-            <td>7</td>
-            <td>/repo-add-komentar</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-add-komentar</td>
             <td>POST</td>
         </tr>
       <tr>
-            <td>7</td>
-            <td>/repo-edit-komentar</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-edit-komentar</td>
             <td>PUT</td>
         </tr>
       <tr>
-            <td>7</td>
-            <td>/repo-delete-komentar/{id?}</td>
+            <td>https://intense-temple-76166.herokuapp.com/api/repo-delete-komentar/{id?}</td>
             <td>DELETE</td>
         </tr>
     </tbody>
@@ -288,7 +274,7 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 1. Menghandle akun Dosen
 2. Menambah Fitur untuk Departemen Lainnya
 3. Fitur Komentar hanya bisa digunakan oleh mahasiswa yang sudah mengambil mata kuliah tersebut
-4. Fitur reset data tertarik elektif ketika semester berakhir (bisa berupa penambahan role atau perhitungan semester berakhir)
+4. Membuat UI untuk menghapus semua data tertarik elektif
 
 
 # Developer dan Job Desc
