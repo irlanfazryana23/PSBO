@@ -190,6 +190,7 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 
 # Hasil Implementasi
 [`^ kembali ke atas ^`](#)
+#### Screenshot Sistem
 - Halaman Login
 ![image](https://user-images.githubusercontent.com/60166788/122150890-c3c0d200-ce88-11eb-8457-6ba16aacd066.png)
 - Halaman Dashboard
@@ -206,7 +207,7 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 ![image](https://user-images.githubusercontent.com/60166788/122151060-0bdff480-ce89-11eb-81b4-21044b24cc8b.png)
 
 
-#### Screenshot Sistem
+
 #### Link Aplikasi (jika sudah di deploy)
 Front-End: https://quirky-hermann-0d2786.netlify.app/
 <br>
@@ -217,7 +218,7 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 1. Menghandle akun Dosen
 2. Menambah Fitur untuk Departemen Lainnya
 3. Fitur Komentar hanya bisa digunakan oleh mahasiswa yang sudah mengambil mata kuliah tersebut
-4. Melengkapi detail mata kuliah , contoh : prasyarat dan deskripsi
+
 
 # Developer dan Job Desc
 [`^ kembali ke atas ^`](#)
