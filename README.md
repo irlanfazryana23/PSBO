@@ -192,18 +192,31 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 [`^ kembali ke atas ^`](#)
 #### Screenshot Sistem
 - Halaman Login
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122150890-c3c0d200-ce88-11eb-8457-6ba16aacd066.png)
+<br>
 - Halaman Dashboard
+<br> 
 ![image](https://user-images.githubusercontent.com/60166788/122150928-d4714800-ce88-11eb-9742-c3a603480760.png)
+<br>
 - Halaman Mata Kuliah
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122150946-dd621980-ce88-11eb-8b8f-bbe9a1fb3db6.png)
+<br>
 - Pilih departemen
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122150964-e7841800-ce88-11eb-8e11-3081e7f9bb72.png)
+<br>
 - Halaman Mata Kuliah menampilkan mata kuliah mayor dan elektif
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122151010-f36fda00-ce88-11eb-8cc4-6b16c9ad62d4.png)
+<br>
 - Halaman untuk mata kuliah mayor
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122151027-ff5b9c00-ce88-11eb-9407-27a65eb9f4e9.png)
+<br>
 - Halaman untuk mata kuliah elektif
+<br>
 ![image](https://user-images.githubusercontent.com/60166788/122151060-0bdff480-ce89-11eb-81b4-21044b24cc8b.png)
 
 
