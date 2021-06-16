@@ -213,6 +213,76 @@ Front-End: https://quirky-hermann-0d2786.netlify.app/
 <br>
 Back-End: https://intense-temple-76166.herokuapp.com/
 
+### Konsumsi API
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Endpoint</th>
+            <th>Method</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>/test-repo/{id?}</td>
+            <td>GET</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>/test-add-repo</td>
+            <td>POST</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>/test-repo-elektif/{id?}</td>
+            <td>GET</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>/repo-list-tertarik/{id?}</td>
+            <td>GET</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>/repo-add-tertarik</td>
+            <td>POST</td>
+        </tr>
+      <tr>
+            <td>4</td>
+            <td>/repo-delete-tertarik/{id?}</td>
+            <td>DELETE</td>
+        </tr>
+      <tr>
+            <td>5</td>
+            <td>/delete-all-tertarik-elektif</td>
+            <td>DELETE</td>
+        </tr>
+      <tr>
+            <td>6</td>
+            <td>/repo-list-komentar/{id?}</td>
+            <td>GET</td>
+        </tr>
+      <tr>
+            <td>7</td>
+            <td>/repo-add-komentar</td>
+            <td>POST</td>
+        </tr>
+      <tr>
+            <td>7</td>
+            <td>/repo-edit-komentar</td>
+            <td>PUT</td>
+        </tr>
+      <tr>
+            <td>7</td>
+            <td>/repo-delete-komentar/{id?}</td>
+            <td>DELETE</td>
+        </tr>
+    </tbody>
+</table>
+
+
 # Saran 
 [`^ kembali ke atas ^`](#)
 1. Menghandle akun Dosen
