@@ -273,7 +273,7 @@ Back-End: https://intense-temple-76166.herokuapp.com/
 
 # Saran 
 [`^ kembali ke atas ^`](#)
-1. Menghandle akun Dosen
+1. Menghandle akun Dosen agar bisa melihat data tertarik elektif/komentar dari mahasiswa
 2. Menambah Fitur untuk Departemen Lainnya
 3. Fitur Komentar hanya bisa digunakan oleh mahasiswa yang sudah mengambil mata kuliah tersebut
 4. Membuat UI untuk menghapus semua data tertarik elektif
