@@ -194,7 +194,7 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 [`^ kembali ke atas ^`](#)
 #### Screenshot Sistem
 - Halaman Login
-![image](https://user-images.githubusercontent.com/60166788/122150890-c3c0d200-ce88-11eb-8457-6ba16aacd066.png)
+![image](https://user-images.githubusercontent.com/60166788/122374047-3b2b5a00-cf8c-11eb-84b6-32142792865f.png)
 - Halaman Dashboard
 ![image](https://user-images.githubusercontent.com/60166788/122150928-d4714800-ce88-11eb-9742-c3a603480760.png)
 - Halaman Mata Kuliah
