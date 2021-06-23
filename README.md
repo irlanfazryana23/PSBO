@@ -82,6 +82,26 @@ Ide yang kami pilih didasari dari **Buku Panduan Program Sarjana IPB** dimana ma
 
 # Konsep OOP Yang Digunakan
 [`^ kembali ke atas ^`](#)
+- Class & Object
+  <br>
+  Class merupakan blueprint dari objek, sedangkan objek adalah representasi dari kelas tersebut. 
+  <br>
+  Contoh ilustrasi dan penerapan pada program :
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/60166788/123087432-bbe7cb80-d44e-11eb-8b6b-2c57abcafdf1.png)
+
+- Interface
+  <br>
+  Kelas abstrak yang sama sekali tidak memiliki implemetasi
+  Murni merupakan template untuk kelas turunannya
+  Tidak boleh memliki property, hanya deklarasi method saja
+  Semua method dideklarasikan dengan visibility public
+  Satu kelas boleh mengimplementasikan banyak interface
+  Pada akhirnya akan mencapai polymorphism
+
+  contoh pada program :
+  ![image](https://user-images.githubusercontent.com/60166788/123087391-ae324600-d44e-11eb-96e4-936524a89396.png)
 
 
 # Tipe Desain Pengembangan Yang Digunakan (Pattern/Anti Pattern)
